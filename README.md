@@ -23,10 +23,8 @@ Delete and Edit options are only for the books that are in the inventory.
 ** Installation and Running the server **
 
 Create a virtual environment.
+git clone https://github.com/SHATWIK/ST-BOOKS.git
 
-** Install Requirements **
-
-pip install -r requirements.txt
-python3 manage.py makemigrations
-python3 manage.py migrate ** Running the server **
-python manage.py runserver your app will be running on locally here!
+# How to Start My Server
+Run :
+pip install -r requirments.txt
